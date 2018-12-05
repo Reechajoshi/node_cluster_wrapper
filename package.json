@@ -1,0 +1,22 @@
+{
+  "name": "node_cluster_wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reechajoshi/node_cluster_wrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reechajoshi/node_cluster_wrapper/issues"
+  },
+  "homepage": "https://github.com/Reechajoshi/node_cluster_wrapper#readme",
+  "dependencies": {
+    "cluster": "^0.7.7"
+  }
+}
